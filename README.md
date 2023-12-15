@@ -2,6 +2,7 @@
 
 
 ##Recommendations: 
+
 ###Save the R script, the shapefile (.shp), and the Excel file with the coordinates in the same folder. 
 ###Set the working directory: Session/Set Working Directory/To Source File Location.
 
