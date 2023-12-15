@@ -15,4 +15,4 @@
 
 ###I wrote the script "map_R_with_shapefile_piab.R". Hope it works for you with your data points and shapefiles. 
 
-###Plotting a map in R with ggplot2 result me useful to have the same shapes, colours, and size that I use in genetic analysis such as PCAs, MDS plots, haplotype networks and so on. 
+###Plotting a map in R with ggplot2 result me useful to have the same shapes, colours, and size that I use in genetic analysis such as PCAs, MDS plots, haplotype networks and compare it with the map. 
